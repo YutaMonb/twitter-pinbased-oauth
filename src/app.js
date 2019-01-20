@@ -20,6 +20,7 @@ let TwitterOauth = (consumerKey, consumerSecret) => {
         this.token = token;
         this.secret = secret;
         console.log(`https://twitter.com/oauth/authorize?oauth_token=${token}`);
+        console.log('Please type PIN.')
     });
 
     process.stdin.setEncoding('utf8');
