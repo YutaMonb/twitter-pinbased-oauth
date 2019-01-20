@@ -1,12 +1,12 @@
 {
   "name": "twitter-pinbased-oauth",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "src/app.js",
   "license": "MIT",
   "dependencies": {
     "oauth": "^0.9.15"
   },
   "bin": {
-    "twitter-pinbased-oauth": "app.js"
+    "twitter-pinbased-oauth": "src/app.js"
   }
 }
