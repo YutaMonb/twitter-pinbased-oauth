@@ -21,3 +21,9 @@ twitter-pinbased-oauth {consumerKey} {consumerSecretKey}
 
 Please type PIN
 ```
+
+### links
+
+[qiita](https://qiita.com/YutaMonb/items/986361e33ad70016b99c)
+
+[npm](https://www.npmjs.com/package/twitter-pinbased-oauth)
